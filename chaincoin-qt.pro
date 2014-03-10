@@ -1,6 +1,6 @@
 TEMPLATE = app
 TARGET = chaincoin-qt
-macx:TARGET = "Chaincoin-Qt"
+macx:TARGET = "Piastrecoin-Qt"
 VERSION = 0.8.2
 INCLUDEPATH += src src/json src/qt
 QT += core gui network

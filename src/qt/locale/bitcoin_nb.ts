@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Chaincoin</source>
-        <translation>Om Chaincoin</translation>
+        <source>About Piastrecoin</source>
+        <translation>Om Piastrecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Chaincoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Chaincoin&lt;/b&gt; versjon</translation>
+        <source>&lt;b&gt;Piastrecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Piastrecoin&lt;/b&gt; versjon</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+0"/>
-        <source>The Chaincoin developers</source>
+        <source>The Piastrecoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,8 +67,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Chaincoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine Chaincoin-adresser for mottak av betalinger. Du kan gi forskjellige adresser til alle som skal betale deg for å holde bedre oversikt.</translation>
+        <source>These are your Piastrecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine Piastrecoin-adresser for mottak av betalinger. Du kan gi forskjellige adresser til alle som skal betale deg for å holde bedre oversikt.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Chaincoin address</source>
-        <translation>Signer en melding for å bevise at du eier en Chaincoin-adresse</translation>
+        <source>Sign a message to prove you own a Piastrecoin address</source>
+        <translation>Signer en melding for å bevise at du eier en Piastrecoin-adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Chaincoin address</source>
-        <translation>Verifiser en melding for å være sikker på at den ble signert av en angitt Chaincoin-adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified Piastrecoin address</source>
+        <translation>Verifiser en melding for å være sikker på at den ble signert av en angitt Piastrecoin-adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,7 +122,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Chaincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Piastrecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -275,8 +275,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-56"/>
-        <source>Chaincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your chaincoins from being stolen by malware infecting your computer.</source>
-        <translation>Chaincoin vil nå lukkes for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke fullt ut kan beskytte dine chaincoins fra å bli stjålet om skadevare infiserer datamaskinen.</translation>
+        <source>Piastrecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your chaincoins from being stolen by malware infecting your computer.</source>
+        <translation>Piastrecoin vil nå lukkes for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke fullt ut kan beskytte dine chaincoins fra å bli stjålet om skadevare infiserer datamaskinen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Chaincoin</source>
-        <translation>Vis informasjon om Chaincoin</translation>
+        <source>Show information about Piastrecoin</source>
+        <translation>Vis informasjon om Piastrecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Chaincoin address</source>
-        <translation>Send til en Chaincoin-adresse</translation>
+        <source>Send coins to a Piastrecoin address</source>
+        <translation>Send til en Piastrecoin-adresse</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Chaincoin</source>
-        <translation>Endre oppsett for Chaincoin</translation>
+        <source>Modify configuration options for Piastrecoin</source>
+        <translation>Endre oppsett for Piastrecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Chaincoin</source>
-        <translation>Chaincoin</translation>
+        <source>Piastrecoin</source>
+        <translation>Piastrecoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Chaincoin</source>
-        <translation>&amp;Om Chaincoin</translation>
+        <source>&amp;About Piastrecoin</source>
+        <translation>&amp;Om Piastrecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Chaincoin addresses to prove you own them</source>
+        <source>Sign messages with your Piastrecoin addresses to prove you own them</source>
         <translation>Signér en melding for å bevise at du eier denne adressen</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Chaincoin addresses</source>
-        <translation>Bekreft meldinger for å være sikker på at de ble signert av en angitt Chaincoin-adresse</translation>
+        <source>Verify messages to ensure they were signed with specified Piastrecoin addresses</source>
+        <translation>Bekreft meldinger for å være sikker på at de ble signert av en angitt Piastrecoin-adresse</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+47"/>
-        <source>Chaincoin client</source>
-        <translation>Chaincoinklient</translation>
+        <source>Piastrecoin client</source>
+        <translation>Piastrecoinklient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Chaincoin network</source>
-        <translation><numerusform>%n aktiv forbindelse til Chaincoin-nettverket</numerusform><numerusform>%n aktive forbindelser til Chaincoin-nettverket</numerusform></translation>
+        <source>%n active connection(s) to Piastrecoin network</source>
+        <translation><numerusform>%n aktiv forbindelse til Piastrecoin-nettverket</numerusform><numerusform>%n aktive forbindelser til Piastrecoin-nettverket</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresse: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Chaincoin address or malformed URI parameters.</source>
-        <translation>URI kunne ikke tolkes! Dette kan forårsakes av en ugyldig Chaincoin-adresse eller feil i URI-parametere.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Piastrecoin address or malformed URI parameters.</source>
+        <translation>URI kunne ikke tolkes! Dette kan forårsakes av en ugyldig Piastrecoin-adresse eller feil i URI-parametere.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Chaincoin can no longer continue safely and will quit.</source>
-        <translation>En fatal feil har inntruffet. Det er ikke trygt å fortsette og Chaincoin må derfor avslutte.</translation>
+        <source>A fatal error occurred. Piastrecoin can no longer continue safely and will quit.</source>
+        <translation>En fatal feil har inntruffet. Det er ikke trygt å fortsette og Piastrecoin må derfor avslutte.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresse: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Chaincoin address.</source>
-        <translation>Den angitte adressed &quot;%1&quot; er ikke en gyldig Chaincoin-adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Piastrecoin address.</source>
+        <translation>Den angitte adressed &quot;%1&quot; er ikke en gyldig Piastrecoin-adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresse: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Chaincoin-Qt</source>
-        <translation>Chaincoin-Qt</translation>
+        <source>Piastrecoin-Qt</source>
+        <translation>Piastrecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -820,13 +820,13 @@ Adresse: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Chaincoin after logging in to the system.</source>
-        <translation>Start Chaincoin automatisk etter innlogging.</translation>
+        <source>Automatically start Piastrecoin after logging in to the system.</source>
+        <translation>Start Piastrecoin automatisk etter innlogging.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Chaincoin on system login</source>
-        <translation>&amp;Start Chaincoin ved systeminnlogging</translation>
+        <source>&amp;Start Piastrecoin on system login</source>
+        <translation>&amp;Start Piastrecoin ved systeminnlogging</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -845,8 +845,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Chaincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åpne automatisk Chaincoin klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
+        <source>Automatically open the Piastrecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åpne automatisk Piastrecoin klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -855,8 +855,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Chaincoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Koble til Chaincoin-nettverket gjennom en SOCKS proxy (f.eks. ved tilkobling gjennom Tor).</translation>
+        <source>Connect to the Piastrecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Koble til Piastrecoin-nettverket gjennom en SOCKS proxy (f.eks. ved tilkobling gjennom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -930,8 +930,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Chaincoin.</source>
-        <translation>Språket for brukergrensesnittet kan settes her. Innstillingen trer i kraft ved omstart av Chaincoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Piastrecoin.</source>
+        <translation>Språket for brukergrensesnittet kan settes her. Innstillingen trer i kraft ved omstart av Piastrecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -945,8 +945,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Chaincoin addresses in the transaction list or not.</source>
-        <translation>Om Chaincoin-adresser skal vises i transaksjonslisten eller ikke.</translation>
+        <source>Whether to show Piastrecoin addresses in the transaction list or not.</source>
+        <translation>Om Piastrecoin-adresser skal vises i transaksjonslisten eller ikke.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -997,8 +997,8 @@ Adresse: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Chaincoin.</source>
-        <translation>Denne innstillingen trer i kraft etter omstart av Chaincoin.</translation>
+        <source>This setting will take effect after restarting Piastrecoin.</source>
+        <translation>Denne innstillingen trer i kraft etter omstart av Piastrecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1016,8 +1016,8 @@ Adresse: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Chaincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informasjonen som vises kan være foreldet. Din lommebok synkroniseres automatisk med Chaincoin-nettverket etter at tilkobling er opprettet, men denne prosessen er ikke ferdig enda.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Piastrecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informasjonen som vises kan være foreldet. Din lommebok synkroniseres automatisk med Piastrecoin-nettverket etter at tilkobling er opprettet, men denne prosessen er ikke ferdig enda.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1220,8 +1220,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Chaincoin-Qt help message to get a list with possible Chaincoin command-line options.</source>
-        <translation>Vis Chaincoin-Qt hjelpemelding for å få en liste med mulige kommandolinjevalg.</translation>
+        <source>Show the Piastrecoin-Qt help message to get a list with possible Piastrecoin command-line options.</source>
+        <translation>Vis Piastrecoin-Qt hjelpemelding for å få en liste med mulige kommandolinjevalg.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,13 +1240,13 @@ Adresse: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Chaincoin - Debug window</source>
-        <translation>Chaincoin - vindu for feilsøk</translation>
+        <source>Piastrecoin - Debug window</source>
+        <translation>Piastrecoin - vindu for feilsøk</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Chaincoin Core</source>
-        <translation>Chaincoin Kjerne</translation>
+        <source>Piastrecoin Core</source>
+        <translation>Piastrecoin Kjerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1255,8 +1255,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Chaincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åpne Chaincoin loggfil for feilsøk fra datamappen. Dette kan ta noen sekunder for store loggfiler.</translation>
+        <source>Open the Piastrecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åpne Piastrecoin loggfil for feilsøk fra datamappen. Dette kan ta noen sekunder for store loggfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1265,8 +1265,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Chaincoin RPC console.</source>
-        <translation>Velkommen til Chaincoin RPC konsoll.</translation>
+        <source>Welcome to the Piastrecoin RPC console.</source>
+        <translation>Velkommen til Piastrecoin RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1291,7 +1291,7 @@ Adresse: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Send Chaincoins</translation>
+        <translation>Send Piastrecoins</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1449,8 +1449,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Chaincoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
-        <translation>Skriv inn en Chaincoin adresse (f.eks. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
+        <source>Enter a Piastrecoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
+        <translation>Skriv inn en Piastrecoin adresse (f.eks. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
     </message>
 </context>
 <context>
@@ -1514,8 +1514,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Chaincoin address</source>
-        <translation>Signer meldingen for å bevise at du eier denne Chaincoin-adressen</translation>
+        <source>Sign the message to prove you own this Piastrecoin address</source>
+        <translation>Signer meldingen for å bevise at du eier denne Piastrecoin-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1550,8 +1550,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Chaincoin address</source>
-        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte Chaincoin-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Piastrecoin address</source>
+        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte Piastrecoin-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,8 +1566,8 @@ Adresse: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Chaincoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
-        <translation>Skriv inn en Chaincoin adresse (f.eks. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
+        <source>Enter a Piastrecoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
+        <translation>Skriv inn en Piastrecoin adresse (f.eks. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,8 +1576,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Chaincoin signature</source>
-        <translation>Angi Chaincoin signatur</translation>
+        <source>Enter Piastrecoin signature</source>
+        <translation>Angi Piastrecoin signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1650,7 +1650,7 @@ Adresse: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The Chaincoin developers</source>
+        <source>The Piastrecoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2138,7 +2138,7 @@ Adresse: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Send Chaincoins</translation>
+        <translation>Send Piastrecoins</translation>
     </message>
 </context>
 <context>
@@ -2188,8 +2188,8 @@ Adresse: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Chaincoin version</source>
-        <translation>Chaincoin versjon</translation>
+        <source>Piastrecoin version</source>
+        <translation>Piastrecoin versjon</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2307,7 +2307,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Chaincoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Piastrecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du må angi rpcpassord i konfigurasjonsfilen.
 %s
@@ -2318,7 +2318,7 @@ rpcpassord=%s
 Brukernavnet og passordet MÅ IKKE være like.
 Om filen ikke eksisterer, opprett den nå med eier-kun-les filrettigheter.
 Det er også anbefalt at å sette varselsmelding slik du får melding om problemer.
-For eksempel: varselmelding=echo %%s | mail -s &quot;Chaincoin varsel&quot; admin@foo.com</translation>
+For eksempel: varselmelding=echo %%s | mail -s &quot;Piastrecoin varsel&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2332,7 +2332,7 @@ For eksempel: varselmelding=echo %%s | mail -s &quot;Chaincoin varsel&quot; admi
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Chaincoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Piastrecoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2377,8 +2377,8 @@ For eksempel: varselmelding=echo %%s | mail -s &quot;Chaincoin varsel&quot; admi
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Chaincoin will not work properly.</source>
-        <translation>Advarsel: Vennligst undersøk at din datamaskin har riktig dato og klokkeslett! Hvis klokken er stilt feil vil ikke Chaincoin fungere riktig.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Piastrecoin will not work properly.</source>
+        <translation>Advarsel: Vennligst undersøk at din datamaskin har riktig dato og klokkeslett! Hvis klokken er stilt feil vil ikke Piastrecoin fungere riktig.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ For eksempel: varselmelding=echo %%s | mail -s &quot;Chaincoin varsel&quot; admi
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Chaincoin Wiki for SSL setup instructions)</source>
-        <translation>SSL valg: (se Chaincoin Wiki for instruksjoner for oppsett av SSL)</translation>
+        <source>SSL options: (see the Piastrecoin Wiki for SSL setup instructions)</source>
+        <translation>SSL valg: (se Piastrecoin Wiki for instruksjoner for oppsett av SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ For eksempel: varselmelding=echo %%s | mail -s &quot;Chaincoin varsel&quot; admi
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Chaincoin</source>
-        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av Chaincoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Piastrecoin</source>
+        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av Piastrecoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Chaincoin to complete</source>
-        <translation>Lommeboken måtte skrives om: start Chaincoin på nytt for å fullføre</translation>
+        <source>Wallet needed to be rewritten: restart Piastrecoin to complete</source>
+        <translation>Lommeboken måtte skrives om: start Piastrecoin på nytt for å fullføre</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ For eksempel: varselmelding=echo %%s | mail -s &quot;Chaincoin varsel&quot; admi
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Chaincoin is probably already running.</source>
-        <translation>Kan ikke binde til %s på denne datamaskinen. Sannsynligvis kjører Chaincoin allerede.</translation>
+        <source>Unable to bind to %s on this computer. Piastrecoin is probably already running.</source>
+        <translation>Kan ikke binde til %s på denne datamaskinen. Sannsynligvis kjører Piastrecoin allerede.</translation>
     </message>
     <message>
         <location line="+64"/>

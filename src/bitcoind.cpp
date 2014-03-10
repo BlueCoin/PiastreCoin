@@ -47,7 +47,7 @@ bool AppInit(int argc, char* argv[])
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
             // First part of help message is specific to chaincoind / RPC client
-            std::string strUsage = _("Chaincoin version") + " " + FormatFullVersion() + "\n\n" +
+            std::string strUsage = _("Piastrecoin version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
                   "  chaincoind [options]                     " + "\n" +
                   "  chaincoind [options] <command> [params]  " + _("Send command to -server or chaincoind") + "\n" +

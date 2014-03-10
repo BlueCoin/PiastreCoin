@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Chaincoin</source>
-        <translation>O Chaincoinu</translation>
+        <source>About Piastrecoin</source>
+        <translation>O Piastrecoinu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Chaincoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Chaincoin&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;Piastrecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Piastrecoin&lt;/b&gt; verze</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Chaincoin developers</source>
-        <translation>Vývojáři Chaincoinu</translation>
+        <source>The Piastrecoin developers</source>
+        <translation>Vývojáři Piastrecoinu</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Chaincoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tohle jsou tvé Chaincoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
+        <source>These are your Piastrecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tohle jsou tvé Piastrecoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Chaincoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Chaincoinové adresy</translation>
+        <source>Sign a message to prove you own a Piastrecoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Piastrecoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Chaincoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Chaincoinovou adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified Piastrecoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Piastrecoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Chaincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Chaincoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your Piastrecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé Piastrecoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Chaincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your chaincoins from being stolen by malware infecting your computer.</source>
-        <translation>Chaincoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých chaincoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>Piastrecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your chaincoins from being stolen by malware infecting your computer.</source>
+        <translation>Piastrecoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých chaincoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Chaincoin</source>
-        <translation>Zobraz informace o Chaincoinu</translation>
+        <source>Show information about Piastrecoin</source>
+        <translation>Zobraz informace o Piastrecoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Chaincoin address</source>
-        <translation>Pošli mince na Chaincoinovou adresu</translation>
+        <source>Send coins to a Piastrecoin address</source>
+        <translation>Pošli mince na Piastrecoinovou adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Chaincoin</source>
-        <translation>Uprav nastavení Chaincoinu</translation>
+        <source>Modify configuration options for Piastrecoin</source>
+        <translation>Uprav nastavení Piastrecoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Chaincoin</source>
-        <translation>Chaincoin</translation>
+        <source>Piastrecoin</source>
+        <translation>Piastrecoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Chaincoin</source>
-        <translation>O &amp;Chaincoinu</translation>
+        <source>&amp;About Piastrecoin</source>
+        <translation>O &amp;Piastrecoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Chaincoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Chaincoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your Piastrecoin addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými Piastrecoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Chaincoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Chaincoinovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified Piastrecoin addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Piastrecoinovými adresami</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Chaincoin client</source>
-        <translation>Chaincoin klient</translation>
+        <source>Piastrecoin client</source>
+        <translation>Piastrecoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Chaincoin network</source>
-        <translation><numerusform>%n aktivní spojení do Chaincoinové sítě</numerusform><numerusform>%n aktivní spojení do Chaincoinové sítě</numerusform><numerusform>%n aktivních spojení do Chaincoinové sítě</numerusform></translation>
+        <source>%n active connection(s) to Piastrecoin network</source>
+        <translation><numerusform>%n aktivní spojení do Piastrecoinové sítě</numerusform><numerusform>%n aktivní spojení do Piastrecoinové sítě</numerusform><numerusform>%n aktivních spojení do Piastrecoinové sítě</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresa: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Chaincoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Chaincoinová adresa nebo poškozené parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Piastrecoin address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Piastrecoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Chaincoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. Chaincoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <source>A fatal error occurred. Piastrecoin can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. Piastrecoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Chaincoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Chaincoinová adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Piastrecoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná Piastrecoinová adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresa: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Chaincoin-Qt</source>
-        <translation>Chaincoin-Qt</translation>
+        <source>Piastrecoin-Qt</source>
+        <translation>Piastrecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Chaincoin after logging in to the system.</source>
-        <translation>Automaticky spustí Chaincoin po přihlášení do systému.</translation>
+        <source>Automatically start Piastrecoin after logging in to the system.</source>
+        <translation>Automaticky spustí Piastrecoin po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Chaincoin on system login</source>
-        <translation>S&amp;pustit Chaincoin po přihlášení do systému</translation>
+        <source>&amp;Start Piastrecoin on system login</source>
+        <translation>S&amp;pustit Piastrecoin po přihlášení do systému</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,7 +844,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Chaincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Piastrecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -854,8 +854,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Chaincoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připojí se do Chaincoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
+        <source>Connect to the Piastrecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Připojí se do Piastrecoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Chaincoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Chaincoinu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Piastrecoin.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Piastrecoinu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,7 +944,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Chaincoin addresses in the transaction list or not.</source>
+        <source>Whether to show Piastrecoin addresses in the transaction list or not.</source>
         <translation>Zda ukazovat chaincoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
@@ -996,8 +996,8 @@ Adresa: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Chaincoin.</source>
-        <translation>Nastavení se projeví až po restartování Chaincoinu.</translation>
+        <source>This setting will take effect after restarting Piastrecoin.</source>
+        <translation>Nastavení se projeví až po restartování Piastrecoinu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adresa: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Chaincoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Chaincoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Piastrecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Piastrecoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1219,8 +1219,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Chaincoin-Qt help message to get a list with possible Chaincoin command-line options.</source>
-        <translation>Seznam parametrů Chaincoinu pro příkazovou řádku získáš v nápovědě Chaincoinu Qt.</translation>
+        <source>Show the Piastrecoin-Qt help message to get a list with possible Piastrecoin command-line options.</source>
+        <translation>Seznam parametrů Piastrecoinu pro příkazovou řádku získáš v nápovědě Piastrecoinu Qt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adresa: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Chaincoin - Debug window</source>
-        <translation>Chaincoin - ladicí okno</translation>
+        <source>Piastrecoin - Debug window</source>
+        <translation>Piastrecoin - ladicí okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Chaincoin Core</source>
-        <translation>Jádro Chaincoinu</translation>
+        <source>Piastrecoin Core</source>
+        <translation>Jádro Piastrecoinu</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Chaincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Chaincoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the Piastrecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy Piastrecoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Chaincoin RPC console.</source>
-        <translation>Vítej v Chaincoinové RPC konzoli.</translation>
+        <source>Welcome to the Piastrecoin RPC console.</source>
+        <translation>Vítej v Piastrecoinové RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Chaincoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
-        <translation>Zadej Chaincoinovou adresu (např. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
+        <source>Enter a Piastrecoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
+        <translation>Zadej Piastrecoinovou adresu (např. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Chaincoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Chaincoinové adresy</translation>
+        <source>Sign the message to prove you own this Piastrecoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Piastrecoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Chaincoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Chaincoinovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Piastrecoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Piastrecoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adresa: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Chaincoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
-        <translation>Zadej Chaincoinovou adresu (např. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
+        <source>Enter a Piastrecoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
+        <translation>Zadej Piastrecoinovou adresu (např. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Chaincoin signature</source>
-        <translation>Vlož Chaincoinový podpis</translation>
+        <source>Enter Piastrecoin signature</source>
+        <translation>Vlož Piastrecoinový podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adresa: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The Chaincoin developers</source>
-        <translation>Vývojáři Chaincoinu</translation>
+        <source>The Piastrecoin developers</source>
+        <translation>Vývojáři Piastrecoinu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adresa: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Chaincoin version</source>
-        <translation>Verze Chaincoinu</translation>
+        <source>Piastrecoin version</source>
+        <translation>Verze Piastrecoinu</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2306,7 +2306,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Chaincoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Piastrecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
@@ -2317,7 +2317,7 @@ rpcpassword=%s
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s &quot;Chaincoin Alert&quot; admin@foo.com
+například: alertnotify=echo %%s | mail -s &quot;Piastrecoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ například: alertnotify=echo %%s | mail -s &quot;Chaincoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Chaincoin is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Chaincoin pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. Piastrecoin is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. Piastrecoin pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ například: alertnotify=echo %%s | mail -s &quot;Chaincoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Chaincoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Chaincoin nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Piastrecoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Piastrecoin nebude fungovat správně.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ například: alertnotify=echo %%s | mail -s &quot;Chaincoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Chaincoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Chaincoin Wiki)</translation>
+        <source>SSL options: (see the Piastrecoin Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Piastrecoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ například: alertnotify=echo %%s | mail -s &quot;Chaincoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Chaincoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Chaincoinu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Piastrecoin</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Piastrecoinu</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Chaincoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Chaincoin, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart Piastrecoin to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Piastrecoin, aby se operace dokončila</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ například: alertnotify=echo %%s | mail -s &quot;Chaincoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Chaincoin is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Chaincoin už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. Piastrecoin is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. Piastrecoin už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <location line="+64"/>

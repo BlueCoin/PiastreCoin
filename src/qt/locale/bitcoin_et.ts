@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Chaincoin</source>
-        <translation>Chaincoinist</translation>
+        <source>About Piastrecoin</source>
+        <translation>Piastrecoinist</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Chaincoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Chaincoini&lt;/b&gt; versioon</translation>
+        <source>&lt;b&gt;Piastrecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Piastrecoini&lt;/b&gt; versioon</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+0"/>
-        <source>The Chaincoin developers</source>
+        <source>The Piastrecoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,8 +67,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Chaincoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Maksete saamiseks kasutatavad Chaincoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
+        <source>These are your Piastrecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Maksete saamiseks kasutatavad Piastrecoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Chaincoin address</source>
+        <source>Sign a message to prove you own a Piastrecoin address</source>
         <translation>Allkirjasta sõnum, et tõestada Bitconi aadressi olemasolu.</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Chaincoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Chaincoini aadressiga.</translation>
+        <source>Verify a message to ensure it was signed with a specified Piastrecoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Piastrecoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Chaincoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Chaincoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <source>These are your Piastrecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu Piastrecoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-56"/>
-        <source>Chaincoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your chaincoins from being stolen by malware infecting your computer.</source>
-        <translation>Chaincoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista chaincoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>Piastrecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your chaincoins from being stolen by malware infecting your computer.</source>
+        <translation>Piastrecoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista chaincoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Chaincoin</source>
-        <translation>Kuva info Chaincoini kohta</translation>
+        <source>Show information about Piastrecoin</source>
+        <translation>Kuva info Piastrecoini kohta</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Chaincoin address</source>
-        <translation>Saada münte Chaincoini aadressile</translation>
+        <source>Send coins to a Piastrecoin address</source>
+        <translation>Saada münte Piastrecoini aadressile</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Chaincoin</source>
-        <translation>Muuda Chaincoini seadeid</translation>
+        <source>Modify configuration options for Piastrecoin</source>
+        <translation>Muuda Piastrecoini seadeid</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Chaincoin</source>
-        <translation>Chaincoin</translation>
+        <source>Piastrecoin</source>
+        <translation>Piastrecoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Chaincoin</source>
-        <translation>%Chaincoinist</translation>
+        <source>&amp;About Piastrecoin</source>
+        <translation>%Piastrecoinist</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Chaincoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Chaincoini aadressiga</translation>
+        <source>Sign messages with your Piastrecoin addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Piastrecoini aadressiga</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Chaincoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Chaincoini aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified Piastrecoin addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Piastrecoini aadressiga</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+47"/>
-        <source>Chaincoin client</source>
-        <translation>Chaincoini klient</translation>
+        <source>Piastrecoin client</source>
+        <translation>Piastrecoini klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Chaincoin network</source>
-        <translation><numerusform>%n aktiivne ühendus Chaincoini võrku</numerusform><numerusform>%n aktiivset ühendust Chaincoini võrku</numerusform></translation>
+        <source>%n active connection(s) to Piastrecoin network</source>
+        <translation><numerusform>%n aktiivne ühendus Piastrecoini võrku</numerusform><numerusform>%n aktiivset ühendust Piastrecoini võrku</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Chaincoin address or malformed URI parameters.</source>
-        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu Chaincoini aadress või vigased URI parameetrid.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Piastrecoin address or malformed URI parameters.</source>
+        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu Piastrecoini aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Chaincoin can no longer continue safely and will quit.</source>
-        <translation>Ilmnes kriitiline tõrge. Chaincoin suletakse turvakaalutluste tõttu.</translation>
+        <source>A fatal error occurred. Piastrecoin can no longer continue safely and will quit.</source>
+        <translation>Ilmnes kriitiline tõrge. Piastrecoin suletakse turvakaalutluste tõttu.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Chaincoin address.</source>
-        <translation>Sisestatud aadress &quot;%1&quot; ei ole Chaincoinis kehtiv.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Piastrecoin address.</source>
+        <translation>Sisestatud aadress &quot;%1&quot; ei ole Piastrecoinis kehtiv.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Chaincoin-Qt</source>
-        <translation>Chaincoini-Qt</translation>
+        <source>Piastrecoin-Qt</source>
+        <translation>Piastrecoini-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Chaincoin after logging in to the system.</source>
-        <translation>Käivita Chaincoin süsteemi logimisel.</translation>
+        <source>Automatically start Piastrecoin after logging in to the system.</source>
+        <translation>Käivita Piastrecoin süsteemi logimisel.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Chaincoin on system login</source>
-        <translation>&amp;Start Chaincoin sisselogimisel</translation>
+        <source>&amp;Start Piastrecoin on system login</source>
+        <translation>&amp;Start Piastrecoin sisselogimisel</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Chaincoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Chaincoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the Piastrecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Piastrecoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Chaincoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Kasuta Chaincoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
+        <source>Connect to the Piastrecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Kasuta Piastrecoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Chaincoin.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Chaincoini käivitamisel.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Piastrecoin.</source>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Piastrecoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Chaincoin addresses in the transaction list or not.</source>
-        <translation>Kuvada Chaincoini aadress tehingute loetelus või mitte.</translation>
+        <source>Whether to show Piastrecoin addresses in the transaction list or not.</source>
+        <translation>Kuvada Piastrecoini aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Chaincoin.</source>
-        <translation>Tehtud valik rakendub Chaincoini käivitamisel.</translation>
+        <source>This setting will take effect after restarting Piastrecoin.</source>
+        <translation>Tehtud valik rakendub Piastrecoini käivitamisel.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,7 +1014,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Chaincoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Piastrecoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1069,7 +1069,7 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start chaincoin: click-to-pay handler</source>
-        <translation>Chaincoin ei käivitu: vajuta-maksa toiming</translation>
+        <translation>Piastrecoin ei käivitu: vajuta-maksa toiming</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Chaincoin-Qt help message to get a list with possible Chaincoin command-line options.</source>
-        <translation>Näita kehtivate käsurea valikute kuvamiseks Chaincoini-Qt abiteksti</translation>
+        <source>Show the Piastrecoin-Qt help message to get a list with possible Piastrecoin command-line options.</source>
+        <translation>Näita kehtivate käsurea valikute kuvamiseks Piastrecoini-Qt abiteksti</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Chaincoin - Debug window</source>
-        <translation>Chaincoin - debugimise aken</translation>
+        <source>Piastrecoin - Debug window</source>
+        <translation>Piastrecoin - debugimise aken</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Chaincoin Core</source>
-        <translation>Chaincoini tuumik</translation>
+        <source>Piastrecoin Core</source>
+        <translation>Piastrecoini tuumik</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Chaincoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava Chaincoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <source>Open the Piastrecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ava Piastrecoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Chaincoin RPC console.</source>
-        <translation>Teretulemast Chaincoini RPC konsooli.</translation>
+        <source>Welcome to the Piastrecoin RPC console.</source>
+        <translation>Teretulemast Piastrecoini RPC konsooli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Chaincoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
-        <translation>Sisesta Chaincoini aadress (nt: JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
+        <source>Enter a Piastrecoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
+        <translation>Sisesta Piastrecoini aadress (nt: JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Chaincoin address</source>
-        <translation>Allkirjasta sõnum Chaincoini aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this Piastrecoin address</source>
+        <translation>Allkirjasta sõnum Piastrecoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Chaincoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Chaincoini aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified Piastrecoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Piastrecoini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Chaincoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
-        <translation>Sisesta Chaincoini aadress (nt: JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
+        <source>Enter a Piastrecoin address (e.g. JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</source>
+        <translation>Sisesta Piastrecoini aadress (nt: JUx4HMYEGAj2npGUQZW4tntt8eC73c6376)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Chaincoin signature</source>
-        <translation>Sisesta Chaincoini allkiri</translation>
+        <source>Enter Piastrecoin signature</source>
+        <translation>Sisesta Piastrecoini allkiri</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,7 +1648,7 @@ Aadress: %4⏎</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The Chaincoin developers</source>
+        <source>The Piastrecoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2186,8 +2186,8 @@ Aadress: %4⏎</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Chaincoin version</source>
-        <translation>Chaincoini versioon</translation>
+        <source>Piastrecoin version</source>
+        <translation>Piastrecoini versioon</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2305,7 +2305,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Chaincoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Piastrecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sul tuleb rpcpassword määrata seadete failis:
 %s
@@ -2316,7 +2316,7 @@ rpcpassword=%s
 Kasutajanimi ning parool EI TOHI kattuda.
 Kui faili ei leita, loo see ainult-omaniku-loetavas failiõigustes .
 Soovitatav on seadistada tõrgete puhul teavitus;
-nt: alertnotify=echo %%s | email -s &quot;Chaincoin Alert&quot; admin@foo.com
+nt: alertnotify=echo %%s | email -s &quot;Piastrecoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ nt: alertnotify=echo %%s | email -s &quot;Chaincoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Chaincoin is probably already running.</source>
-        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on Chaincoin juba avatud.</translation>
+        <source>Cannot obtain a lock on data directory %s. Piastrecoin is probably already running.</source>
+        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on Piastrecoin juba avatud.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ nt: alertnotify=echo %%s | email -s &quot;Chaincoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Chaincoin will not work properly.</source>
-        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Chaincoin ei tööta korralikult</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Piastrecoin will not work properly.</source>
+        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Piastrecoin ei tööta korralikult</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ nt: alertnotify=echo %%s | email -s &quot;Chaincoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Chaincoin Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata Chaincoini Wikist või SSL sätete juhendist)</translation>
+        <source>SSL options: (see the Piastrecoin Wiki for SSL setup instructions)</source>
+        <translation>SSL valikud: (vaata Piastrecoini Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ nt: alertnotify=echo %%s | email -s &quot;Chaincoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Chaincoin</source>
-        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Chaincoini uusimat versiooni</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Piastrecoin</source>
+        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Piastrecoini uusimat versiooni</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Chaincoin to complete</source>
-        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Chaincoin</translation>
+        <source>Wallet needed to be rewritten: restart Piastrecoin to complete</source>
+        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Piastrecoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ nt: alertnotify=echo %%s | email -s &quot;Chaincoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Chaincoin is probably already running.</source>
-        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. Chaincoin juba töötab.</translation>
+        <source>Unable to bind to %s on this computer. Piastrecoin is probably already running.</source>
+        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. Piastrecoin juba töötab.</translation>
     </message>
     <message>
         <location line="+64"/>

@@ -1017,13 +1017,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Chaincoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Chaincoin
-    // Mac: ~/Library/Application Support/Chaincoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Piastrecoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Piastrecoin
+    // Mac: ~/Library/Application Support/Piastrecoin
     // Unix: ~/.chaincoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Chaincoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Piastrecoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1035,7 +1035,7 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "Chaincoin";
+    return pathRet / "Piastrecoin";
 #else
     // Unix
     return pathRet / ".chaincoin";
@@ -1337,7 +1337,7 @@ void AddTimeData(const CNetAddr& ip, int64 nTime)
                 if (!fMatch)
                 {
                     fDone = true;
-                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong Chaincoin will not work properly.");
+                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong Piastrecoin will not work properly.");
                     strMiscWarning = strMessage;
                     printf("*** %s\n", strMessage.c_str());
                     uiInterface.ThreadSafeMessageBox(strMessage, "", CClientUIInterface::MSG_WARNING);
