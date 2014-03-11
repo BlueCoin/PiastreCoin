@@ -275,7 +275,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Piastrecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your chaincoins from being stolen by malware infecting your computer.</source>
+        <source>Piastrecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your piastrecoins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши биткоины от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -1069,8 +1069,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start chaincoin: click-to-pay handler</source>
-        <translation>Не удаётся запустить chaincoin: обработчик click-to-pay</translation>
+        <source>Cannot start piastrecoin: click-to-pay handler</source>
+        <translation>Не удаётся запустить piastrecoin: обработчик click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -2197,8 +2197,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or chaincoind</source>
-        <translation>Отправить команду на -server или chaincoind</translation>
+        <source>Send command to -server or piastrecoind</source>
+        <translation>Отправить команду на -server или piastrecoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2218,13 +2218,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: chaincoin.conf)</source>
-        <translation>Указать конфигурационный файл (по умолчанию: chaincoin.conf)</translation>
+        <source>Specify configuration file (default: piastrecoin.conf)</source>
+        <translation>Указать конфигурационный файл (по умолчанию: piastrecoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: chaincoind.pid)</source>
-        <translation>Задать pid-файл (по умолчанию: chaincoin.pid)</translation>
+        <source>Specify pid file (default: piastrecoind.pid)</source>
+        <translation>Задать pid-файл (по умолчанию: piastrecoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2301,7 +2301,7 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=chaincoinrpc
+rpcuser=piastrecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2312,7 +2312,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Piastrecoin Alert&quot; admin@
         <translation>%s, вы должны установить опцию rpcpassword в конфигурационном файле:
  %s
 Рекомендуется использовать следующий случайный пароль:
-rpcuser=chaincoinrpc
+rpcuser=piastrecoinrpc
 rpcpassword=%s
 (вам не нужно запоминать этот пароль)
 Имя и пароль ДОЛЖНЫ различаться.

@@ -158,10 +158,10 @@ OBJS= \
     obj/shavite.o \
     obj/simd.o
 
-all: chaincoind
+all: piastrecoind
 
-test check: test_chaincoin FORCE
-	./test_chaincoin
+test check: test_piastrecoin FORCE
+	./test_piastrecoin
 
 #
 # LevelDB support
@@ -196,7 +196,7 @@ obj/%.o: %.c
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	  rm -f $(@:%.o=%.d)
 
-chaincoind: $(OBJS:obj/%=obj/%)
+piastrecoind: $(OBJS:obj/%=obj/%)
 	$(LINK) $(xCXXFLAGS) -o $@ $^ $(xLDFLAGS) $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -208,11 +208,11 @@ obj-test/%.o: test/%.cpp
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	  rm -f $(@:%.o=%.d)
 
-test_chaincoin: $(TESTOBJS) $(filter-out obj/init.o obj/chaincoind.o,$(OBJS:obj/%=obj/%))
+test_piastrecoin: $(TESTOBJS) $(filter-out obj/init.o obj/piastrecoind.o,$(OBJS:obj/%=obj/%))
 	$(LINK) $(xCXXFLAGS) -o $@ $(LIBPATHS) $^ $(TESTLIBS) $(xLDFLAGS) $(LIBS)
 
 clean:
-	-rm -f chaincoind test_chaincoin
+	-rm -f piastrecoind test_piastrecoin
 	-rm -f obj/*.o
 	-rm -f obj-test/*.o
 	-rm -f obj/*.P

@@ -166,8 +166,8 @@ std::string HelpMessage()
 {
     string strUsage = _("Options:") + "\n";
     strUsage += "  -?                     " + _("This help message") + "\n";
-    strUsage += "  -conf=<file>           " + _("Specify configuration file (default: chaincoin.conf)") + "\n";
-    strUsage += "  -pid=<file>            " + _("Specify pid file (default: chaincoind.pid)") + "\n";
+    strUsage += "  -conf=<file>           " + _("Specify configuration file (default: piastrecoin.conf)") + "\n";
+    strUsage += "  -pid=<file>            " + _("Specify pid file (default: piastrecoind.pid)") + "\n";
     strUsage += "  -gen                   " + _("Generate coins (default: 0)") + "\n";
     strUsage += "  -datadir=<dir>         " + _("Specify data directory") + "\n";
     strUsage += "  -wallet=<file>         " + _("Specify wallet file (within data directory)") + "\n";

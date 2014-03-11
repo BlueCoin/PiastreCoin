@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = chaincoin-qt
+TARGET = piastrecoin-qt
 macx:TARGET = "Piastrecoin-Qt"
 VERSION = 0.8.2
 INCLUDEPATH += src src/json src/qt
@@ -339,7 +339,7 @@ SOURCES += src/qt/test/test_main.cpp \
 HEADERS += src/qt/test/uritests.h
 DEPENDPATH += src/qt/test
 QT += testlib
-TARGET = chaincoin-qt_test
+TARGET = piastrecoin-qt_test
 DEFINES += BITCOIN_QT_TEST
   macx: CONFIG -= app_bundle
 }

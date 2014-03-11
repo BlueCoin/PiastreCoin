@@ -278,8 +278,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-56"/>
-        <source>Piastrecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your chaincoins from being stolen by malware infecting your computer.</source>
-        <translation>Piastrecoin se cerrará para finalizar el proceso de cifrado. Recuerde que el cifrado de su monedero no puede proteger totalmente sus chaincoins de robo por malware que infecte su sistema.</translation>
+        <source>Piastrecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your piastrecoins from being stolen by malware infecting your computer.</source>
+        <translation>Piastrecoin se cerrará para finalizar el proceso de cifrado. Recuerde que el cifrado de su monedero no puede proteger totalmente sus piastrecoins de robo por malware que infecte su sistema.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1072,8 +1072,8 @@ Dirección: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start chaincoin: click-to-pay handler</source>
-        <translation>No se pudo iniciar chaincoin: manejador de pago-al-clic</translation>
+        <source>Cannot start piastrecoin: click-to-pay handler</source>
+        <translation>No se pudo iniciar piastrecoin: manejador de pago-al-clic</translation>
     </message>
 </context>
 <context>
@@ -2200,8 +2200,8 @@ Dirección: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or chaincoind</source>
-        <translation>Envíar comando a -server o chaincoind</translation>
+        <source>Send command to -server or piastrecoind</source>
+        <translation>Envíar comando a -server o piastrecoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2223,14 +2223,14 @@ Dirección: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: chaincoin.conf)</source>
-        <translation>Especificar archivo de configuración (predeterminado: chaincoin.conf)
+        <source>Specify configuration file (default: piastrecoin.conf)</source>
+        <translation>Especificar archivo de configuración (predeterminado: piastrecoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: chaincoind.pid)</source>
-        <translation>Especificar archivo pid (predeterminado: chaincoin.pid)
+        <source>Specify pid file (default: piastrecoind.pid)</source>
+        <translation>Especificar archivo pid (predeterminado: piastrecoin.pid)
 </translation>
     </message>
     <message>
@@ -2311,7 +2311,7 @@ Dirección: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=chaincoinrpc
+rpcuser=piastrecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2322,7 +2322,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Piastrecoin Alert&quot; admin@
         <translation>%s, debe establecer un valor rpcpassword en el archivo de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=chaincoinrpc
+rpcuser=piastrecoinrpc
 rpcpassword=%s
 (no es necesario recordar esta contraseña)
 El nombre de usuario y la contraseña DEBEN NO ser iguales.

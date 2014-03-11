@@ -35,7 +35,7 @@ bool AppInit(int argc, char* argv[])
         //
         // Parameters
         //
-        // If Qt is used, parameters/chaincoin.conf are parsed in qt/bitcoin.cpp's main()
+        // If Qt is used, parameters/piastrecoin.conf are parsed in qt/bitcoin.cpp's main()
         ParseParameters(argc, argv);
         if (!boost::filesystem::is_directory(GetDataDir(false)))
         {
@@ -46,13 +46,13 @@ bool AppInit(int argc, char* argv[])
 
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
-            // First part of help message is specific to chaincoind / RPC client
+            // First part of help message is specific to piastrecoind / RPC client
             std::string strUsage = _("Piastrecoin version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  chaincoind [options]                     " + "\n" +
-                  "  chaincoind [options] <command> [params]  " + _("Send command to -server or chaincoind") + "\n" +
-                  "  chaincoind [options] help                " + _("List commands") + "\n" +
-                  "  chaincoind [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  piastrecoind [options]                     " + "\n" +
+                  "  piastrecoind [options] <command> [params]  " + _("Send command to -server or piastrecoind") + "\n" +
+                  "  piastrecoind [options] help                " + _("List commands") + "\n" +
+                  "  piastrecoind [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -62,7 +62,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "chaincoin:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "piastrecoin:"))
                 fCommandLine = true;
 
         if (fCommandLine)
@@ -129,7 +129,7 @@ int main(int argc, char* argv[])
     bool fRet = false;
     fHaveGUI = false;
 
-    // Connect chaincoind signal handlers
+    // Connect piastrecoind signal handlers
     noui_connect();
 
     fRet = AppInit(argc, argv);

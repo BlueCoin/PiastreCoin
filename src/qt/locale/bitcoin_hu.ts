@@ -274,7 +274,7 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="-56"/>
-        <source>Piastrecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your chaincoins from being stolen by malware infecting your computer.</source>
+        <source>Piastrecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your piastrecoins from being stolen by malware infecting your computer.</source>
         <translation>Piastrecoin will close now to finish the encryption process. Ne feledd, hogy a tárca titkosítása sem nyújt teljes védelmet az adathalász programok fertőzésével szemben.</translation>
     </message>
     <message>
@@ -1069,7 +1069,7 @@ Cím: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start chaincoin: click-to-pay handler</source>
+        <source>Cannot start piastrecoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1365,7 +1365,7 @@ Cím: %4
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>Nincs ennyi chaincoin az egyenlegeden.</translation>
+        <translation>Nincs ennyi piastrecoin az egyenlegeden.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2198,8 +2198,8 @@ Cím: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or chaincoind</source>
-        <translation>Parancs küldése a -serverhez vagy a chaincoindhez
+        <source>Send command to -server or piastrecoind</source>
+        <translation>Parancs küldése a -serverhez vagy a piastrecoindhez
 </translation>
     </message>
     <message>
@@ -2222,14 +2222,14 @@ Cím: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: chaincoin.conf)</source>
-        <translation>Konfigurációs fájl (alapértelmezett: chaincoin.conf)
+        <source>Specify configuration file (default: piastrecoin.conf)</source>
+        <translation>Konfigurációs fájl (alapértelmezett: piastrecoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: chaincoind.pid)</source>
-        <translation>pid-fájl (alapértelmezett: chaincoind.pid)
+        <source>Specify pid file (default: piastrecoind.pid)</source>
+        <translation>pid-fájl (alapértelmezett: piastrecoind.pid)
 </translation>
     </message>
     <message>
@@ -2311,7 +2311,7 @@ Cím: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=chaincoinrpc
+rpcuser=piastrecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2880,7 +2880,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Piastrecoin Alert&quot; admin@
     <message>
         <location line="-6"/>
         <source>Insufficient funds</source>
-        <translation>Nincs elég chaincoinod.</translation>
+        <translation>Nincs elég piastrecoinod.</translation>
     </message>
     <message>
         <location line="+10"/>

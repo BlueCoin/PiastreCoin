@@ -108,7 +108,7 @@ OBJS= \
     obj/shavite.o \
     obj/simd.o
 
-all: chaincoind.exe
+all: piastrecoind.exe
 
 DEFS += -I"$(CURDIR)/leveldb/include"
 DEFS += -I"$(CURDIR)/leveldb/helpers"
@@ -126,7 +126,7 @@ obj/%.o: %.cpp $(HEADERS)
 obj/%.o: %.c $(HEADERS)
 	$(CXX) -c $(xCXXFLAGS) -o $@ $<
 
-chaincoind.exe: $(OBJS:obj/%=obj/%)
+piastrecoind.exe: $(OBJS:obj/%=obj/%)
 	$(CXX) $(xCXXFLAGS) $(xLDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -134,15 +134,15 @@ TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
 obj-test/%.o: test/%.cpp $(HEADERS)
 	$(CXX) -c $(TESTDEFS) $(xCXXFLAGS) -o $@ $<
 
-test_chaincoin.exe: $(TESTOBJS) $(filter-out obj/init.o obj/chaincoind.o,$(OBJS:obj/%=obj/%))
+test_piastrecoin.exe: $(TESTOBJS) $(filter-out obj/init.o obj/piastrecoind.o,$(OBJS:obj/%=obj/%))
 	$(CXX) $(xCXXFLAGS) $(xLDFLAGS) -o $@ $(LIBPATHS) $^ -lboost_unit_test_framework-mt-s $(LIBS)
 
 
 clean:
 	-rm -f obj/*.o
-	-rm -f chaincoind.exe
+	-rm -f piastrecoind.exe
 	-rm -f obj-test/*.o
-	-rm -f test_chaincoin.exe
+	-rm -f test_piastrecoin.exe
 	-rm -f obj/build.h
 	cd leveldb && TARGET_OS=OS_WINDOWS_CROSSCOMPILE $(MAKE) clean && cd ..
 

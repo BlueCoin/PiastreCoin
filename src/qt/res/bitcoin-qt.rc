@@ -23,10 +23,10 @@ BEGIN
             VALUE "CompanyName",        "Piastrecoin"
             VALUE "FileDescription",    "Piastrecoin-Qt (OSS GUI client for Piastrecoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "chaincoin-qt"
+            VALUE "InternalName",       "piastrecoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "chaincoin-qt.exe"
+            VALUE "OriginalFilename",   "piastrecoin-qt.exe"
             VALUE "ProductName",        "Piastrecoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END

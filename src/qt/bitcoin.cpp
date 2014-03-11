@@ -175,7 +175,7 @@ int main(int argc, char *argv[])
     // Application identification (must be set before OptionsModel is initialized,
     // as it is used to locate QSettings)
     QApplication::setOrganizationName("Piastrecoin");
-    QApplication::setOrganizationDomain("chaincoin.org");
+    QApplication::setOrganizationDomain("piastrecoin.org");
     if (GetBoolArg("-testnet", false)) // Separate UI settings for testnet
         QApplication::setApplicationName("Piastrecoin-Qt-testnet");
     else
@@ -197,7 +197,7 @@ int main(int argc, char *argv[])
     // Install global event filter that makes sure that long tooltips can be word-wrapped
     app.installEventFilter(new GUIUtil::ToolTipToRichTextFilter(TOOLTIP_WRAP_THRESHOLD, &app));
 
-    // ... then chaincoin.conf:
+    // ... then piastrecoin.conf:
     if (!boost::filesystem::is_directory(GetDataDir(false)))
     {
         QMessageBox::critical(0, QObject::tr("Piastrecoin"),
@@ -282,7 +282,7 @@ int main(int argc, char *argv[])
                 }
 
                 // Now that initialization/startup is done, process any command-line
-                // chaincoin: URIs
+                // piastrecoin: URIs
                 QObject::connect(paymentServer, SIGNAL(receivedURI(QString)), &window, SLOT(handleURI(QString)));
                 QTimer::singleShot(100, paymentServer, SLOT(uiReady()));
 

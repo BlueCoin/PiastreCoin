@@ -278,8 +278,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="-56"/>
-        <source>Piastrecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your chaincoins from being stolen by malware infecting your computer.</source>
-        <translation>Piastrecoin se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus chaincoins de ser robados por malware que infecte su computador</translation>
+        <source>Piastrecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your piastrecoins from being stolen by malware infecting your computer.</source>
+        <translation>Piastrecoin se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus piastrecoins de ser robados por malware que infecte su computador</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -423,12 +423,12 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     <message>
         <location line="-347"/>
         <source>Send coins to a Piastrecoin address</source>
-        <translation>Enviar monedas a una dirección chaincoin</translation>
+        <translation>Enviar monedas a una dirección piastrecoin</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Piastrecoin</source>
-        <translation>Modifica las opciones de configuración de chaincoin</translation>
+        <translation>Modifica las opciones de configuración de piastrecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1072,7 +1072,7 @@ Dirección: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start chaincoin: click-to-pay handler</source>
+        <source>Cannot start piastrecoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2200,8 +2200,8 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or chaincoind</source>
-        <translation>Envia comando a chaincoin lanzado con -server u chaincoind
+        <source>Send command to -server or piastrecoind</source>
+        <translation>Envia comando a piastrecoin lanzado con -server u piastrecoind
 </translation>
     </message>
     <message>
@@ -2224,14 +2224,14 @@ Dirección: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: chaincoin.conf)</source>
-        <translation>Especifica archivo de configuración (predeterminado: chaincoin.conf)
+        <source>Specify configuration file (default: piastrecoin.conf)</source>
+        <translation>Especifica archivo de configuración (predeterminado: piastrecoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: chaincoind.pid)</source>
-        <translation>Especifica archivo pid (predeterminado: chaincoin.pid)
+        <source>Specify pid file (default: piastrecoind.pid)</source>
+        <translation>Especifica archivo pid (predeterminado: piastrecoin.pid)
 </translation>
     </message>
     <message>
@@ -2313,7 +2313,7 @@ Dirección: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=chaincoinrpc
+rpcuser=piastrecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
