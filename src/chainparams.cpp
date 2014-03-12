@@ -31,17 +31,17 @@ public:
         nDefaultPort = 21994;
         nRPCPort = 21995;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 20);
-        nSubsidyHalvingInterval = 700800; // 2 years
+        nSubsidyHalvingInterval = 175320; // 6 months
 
         // Build the genesis block. Note that the output of the genesis coinbase cannot
         // be spent as it did not originally exist in the database.
   
-        const char* pszTimestamp = "18-01-14 - Anti-fracking campaigners chain themselves to petrol pumps";
+        const char* pszTimestamp = "11-03-14 - Malaysia says missing jet made it far from last reported position";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 486604799 << CBigNum(4) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
-        txNew.vout[0].nValue = 16 * COIN;
+        txNew.vout[0].nValue = 64 * COIN;
         txNew.vout[0].scriptPubKey = CScript() << ParseHex("04becedf6ebadd4596964d890f677f8d2e74fdcc313c6416434384a66d6d8758d1c92de272dc6713e4a81d98841dfdfdc95e204ba915447d2fe9313435c78af3e8") << OP_CHECKSIG;
         genesis.vtx.push_back(txNew);
         genesis.hashPrevBlock = 0;
@@ -69,7 +69,7 @@ public:
         vSeeds.push_back(CDNSSeedData("piastrecoin.no-ip.biz", "piastrecoin.no-ip.biz"));
         vSeeds.push_back(CDNSSeedData("piastrecoin.zapto.org", "piastrecoin.zapto.org"));
 
-        base58Prefixes[PUBKEY_ADDRESS] = 28;
+        base58Prefixes[PUBKEY_ADDRESS] = 38;
         base58Prefixes[SCRIPT_ADDRESS] = 4;
         base58Prefixes[SECRET_KEY] = 28 + 128;
 
