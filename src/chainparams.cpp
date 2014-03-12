@@ -64,7 +64,7 @@ public:
         genesis.print();
         
         assert(hashGenesisBlock == uint256("0x00000f639db5734b2b861ef8dbccc33aebd7de44d13de000a12d093bcc866c64"));
-        assert(genesis.hashMerkleRoot == uint256("0xfa6ef9872494fa9662cf0fecf8c0135a6932e76d7a8764e1155207f3205c7c88"));
+        assert(genesis.hashMerkleRoot == uint256("0x83169555d8575c36c7803e764eca6328c058a2121b4859566191ed1fe68c8f6e"));
 
         vSeeds.push_back(CDNSSeedData("piastrecoin.no-ip.biz", "piastrecoin.no-ip.biz"));
         vSeeds.push_back(CDNSSeedData("piastrecoin.zapto.org", "piastrecoin.zapto.org"));
